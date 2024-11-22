@@ -1,0 +1,26 @@
+{
+  "siteURL": "https://magoosbeta.mysight.uk/",
+  "appointments": {
+    "type": "dispensing",
+    "date": "2024-11-26",
+    "time": "9:00am"
+  },
+  "user": {
+    "email": "testuser_1732306466396@example.com",
+    "password": "TestPassword123",
+    "userDetails": {
+      "title": "Mr",
+      "firstName": "Test",
+      "lastName": "User",
+      "dateOfBirth": "24.11.1998",
+      "phoneNumber": "1234567890",
+      "address": "Alt Roy, Aboyne, AB34 5HR"
+    }
+  },
+  "hullBranch": {
+    "address": "6 Humber Street, HULL, HU1 1TG",
+    "openingHours": {
+      "wednesday": "9:00am - 6:15pm"
+    }
+  }
+}
