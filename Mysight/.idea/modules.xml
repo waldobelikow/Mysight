@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mysight.iml" filepath="$PROJECT_DIR$/Mysight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Program Files/nodejs/nodejs.iml" filepath="$PROJECT_DIR$/../../../Program Files/nodejs/nodejs.iml" />
     </modules>
   </component>
 </project>
